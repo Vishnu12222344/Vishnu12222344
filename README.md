@@ -25,10 +25,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:olapuajay@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/olapuajay"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/olapu-ajay/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/_ajaypatel_18/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="pratapanivishnu@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Vishnu12222344"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="www.linkedin.com/in/pratapanivishnu0003"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -106,13 +105,17 @@
 
 <p align="center">
   &emsp;
-  <a href="https://olapuajay.github.io/CricTriute/" target="_blank">
-    <img alt="CricTribute" src="https://img.shields.io/badge/Project%201%20-%23E34F26.svg?style=plastic&logo=github&logoColor=white">
+  <a href="https://sainathaenterprises.netlify.app/" target="_blank">
+    <img alt="Sainatha Enterprises" src="https://img.shields.io/badge/Project%201%20-%23E34F26.svg?style=plastic&logo=github&logoColor=white">
   </a>
   &emsp;
-  <a href="bistrowave-restaurant-web.netlify.app" target="_blank">
-    <img alt="Sample Restaurant" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
+  <a href="https://github.com/Vishnu12222344/BloodNetwork360" target="_blank">
+    <img alt="BloodNetwork360" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
   </a>
+ &emsp;
+<a href="https://github.com/Vishnu12222344/Online-Furniture-Store-" target="_blank">
+<img alt="E-Commerce Store" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
+</a>
 </p>
 
 <br>
@@ -147,17 +150,20 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/olapuajay/CricTriute">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=CricTriute&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://sainathaenterprises.netlify.app/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=sainathaenterprises&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/olapuajay/react_restaurant">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=react_restaurant&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Vishnu12222344/Online-Furniture-Store-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Online-Furniture-Store-&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    <a href="https://github.com/olapuajay/Banking-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=Banking-Management-System&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/Vishnu12222344/BloodNetwork360">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=BloodNetwork360&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    <a href="https://github.com/olapuajay/Library-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=Library-Management-System&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/Vishnu12222344/Weather-Predictor-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Weather-Predictor-app&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    <a href="https://github.com/Vishnu12222344/University-Management-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=University-Management-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
