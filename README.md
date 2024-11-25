@@ -150,7 +150,7 @@
 	
 <div>
   <p align="center">
-	<a href="https://sainathaenterprises.netlify.app/">
+	<a href="https://github.com/Vishnu12222344/Sainatha-Enterprises">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=sainathaenterprises&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Vishnu12222344/Online-Furniture-Store-">
