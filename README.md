@@ -96,21 +96,16 @@
 <details>
   <summary><b>📁 My Pinned Repositories</b></summary>
   <p align="center">
-    <a href="https://github.com/Vishnu12222344/Sainatha-Enterprises">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=sainathaenterprises&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Vishnu12222344/Online-Furniture-Store-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Online-Furniture-Store-&theme=tokyonight" />
-    </a>
     <a href="https://github.com/Vishnu12222344/BloodNetwork360">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=BloodNetwork360&theme=tokyonight" />
     </a>
     <a href="https://github.com/Vishnu12222344/Weather-Predictor-app">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Weather-Predictor-app&theme=tokyonight" />
     </a>
-    <a href="https://github.com/Vishnu12222344/University-Management-System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=University-Management-System&theme=tokyonight" />
+    <a href="https://github.com/Vishnu12222344/Sainatha-Enterprises">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Weather-Predictor-app&theme=tokyonight" />
     </a>
+    
   </p>
 </details>
 
