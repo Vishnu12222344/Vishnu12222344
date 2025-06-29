@@ -20,7 +20,7 @@
 - 💼 Actively looking for **Internship or Job opportunities**
 - 🎨 Passionate about blending **design & functionality**
 - 💡 Constantly exploring new technologies & improving skills
-- 📄 [My Resume]((https://drive.google.com/file/d/11QgU3lg1so2rI2XWvNOgtzyFeGIoMMlV/view?usp=drive_link))
+- 📄 [My Resume](https://drive.google.com/file/d/11QgU3lg1so2rI2XWvNOgtzyFeGIoMMlV/view?usp=drive_link)
 
 ---
 
