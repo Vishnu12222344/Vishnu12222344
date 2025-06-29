@@ -103,7 +103,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Weather-Predictor-app&theme=tokyonight" />
     </a>
     <a href="https://github.com/Vishnu12222344/Sainatha-Enterprises">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Weather-Predictor-app&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Sainatha-Enterprises&theme=tokyonight" />
     </a>
     
   </p>
