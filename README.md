@@ -348,7 +348,9 @@ Production-grade e-commerce with RBAC, full product lifecycle and Dockerized dep
 
 <!-- QUOTE -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&text=💬%20Dev%20Quote&fontSize=24&fontColor=00D9FF&fontAlignY=65" width="100%"/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 <br/>
