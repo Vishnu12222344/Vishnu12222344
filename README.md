@@ -1,10 +1,11 @@
+<!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishnu%20Pratapani&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Java%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Cloud%20Native&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vishnu%20Pratapani&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Java%20Developer%20%E2%80%A2%20Cloud%20Native%20Engineer&descAlignY=62&descSize=16&stroke=00D9FF&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=48&lines=Spring+Boot+%7C+Microservices+%7C+Cloud+Native;Java+Backend+%7C+Docker+%7C+Kubernetes;REST+APIs+%7C+JWT+%7C+WebSockets;React+%7C+TypeScript+%7C+System+Design;Building+Scalable+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=48&lines=⚡+Spring+Boot+%7C+Microservices+%7C+Cloud+Native;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🔐+REST+APIs+%7C+JWT+%7C+WebSockets;⚛️+React+%7C+TypeScript+%7C+System+Design;🚀+Building+Scalable+Production+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,9 +20,12 @@
 
 <br/>
 
----
+<!-- ABOUT ME SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## ⚡ About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%E2%9A%A1%20About%20Me&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
 
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
@@ -46,16 +50,17 @@
 
 <br/>
 
----
+<!-- EXPERIENCE SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%8F%A2%20Experience&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-## 🏢 Experience
+<br/>
 
 <table width="100%">
 <tr>
 <td>
-<img align="right" src="https://img.shields.io/badge/Dec%202025–Present-00D9FF?style=flat-square"/>
+<img align="right" src="https://img.shields.io/badge/Dec%202025–Present-00D9FF?style=for-the-badge&logoColor=white"/>
 
-### 🔵 Academic Trainee &nbsp;·&nbsp; [HCLTech](https://www.hcltech.com/)
+### 🔵 Academic Trainee · [HCLTech](https://www.hcltech.com/)
 
 - Developed **3+ Spring Boot microservices** with RESTful APIs, enabling independent deployment and service isolation
 - Containerized backend services with **Docker**, deployed on **Kubernetes** — pods, deployments, NodePort services, **zero-downtime rollouts**
@@ -66,75 +71,79 @@
 
 <br/>
 
----
+<!-- PROJECTS SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-## 🚀 Featured Projects
+<br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Coffee Shop Queue Management
+<img src="https://img.shields.io/badge/☕%20Coffee%20Shop%20Queue%20Management-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=0D1117&color=00D9FF"/>
+
 > `ReactJS` `TypeScript` `Spring Boot` `Spring Security` `MySQL` · *Feb 2026*
 
-Full-stack order management platform with a real-time **SJF vs FIFO** queue simulation engine across 3 parallel baristas.
+Full-stack order management with real-time **SJF vs FIFO** queue simulation across 3 parallel baristas.
 
 | Metric | Result |
 |--------|--------|
-| ⏱️ Wait Time Reduction | **30%** |
-| 📉 Abandonment Rate | **↓ 50%** |
-| 📊 Orders / Run | **200–250** |
+| ⏱️ Wait Time | **↓ 30%** |
+| 📉 Abandonment | **↓ 50%** |
+| 📊 Orders/Run | **200–250** |
 | 🔒 Auth | JWT + RBAC |
 
-[![GitHub](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu12222344)
+[![GitHub](https://img.shields.io/badge/View%20Source-%230D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu12222344)
 
 </td>
 <td width="50%" valign="top">
 
-### ♟️ IndiChess — Real-Time Chess
+<img src="https://img.shields.io/badge/♟️%20IndiChess%20—%20Real--Time%20Chess-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=0D1117&color=7C3AED"/>
+
 > `Spring Boot` `WebSockets` `MySQL` `Docker` `React` · *Jan 2026*
 
-Low-latency multiplayer chess with WebSocket real-time communication and full Kubernetes deployment.
+Low-latency multiplayer chess engine with WebSocket real-time comms and Kubernetes deployment.
 
 | Metric | Result |
 |--------|--------|
-| ⚡ Concurrent Matches | **10+** |
-| 🏆 Game Sessions | **100+** |
-| 🐳 Parallel Services | **3+** |
+| ⚡ Concurrent | **10+ matches** |
+| 🏆 Sessions | **100+ stored** |
+| 🐳 Services | **3+ parallel** |
 | 🔁 Recovery | Fault-tolerant |
 
-[![GitHub](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu12222344)
+[![GitHub](https://img.shields.io/badge/View%20Source-%230D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu12222344)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform
+<img src="https://img.shields.io/badge/🛒%20E--Commerce%20Platform-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=0D1117&color=06B6D4"/>
+
 > `ReactJS` `Spring Boot` `MySQL` `Spring Security` · *Jul 2025*
 
-Production-grade e-commerce with RBAC, full product lifecycle, and Dockerized deployment.
+Production-grade e-commerce with RBAC, full product lifecycle and Dockerized deployment.
 
 | Metric | Result |
 |--------|--------|
-| 🔐 User Roles | **3** (Buyer / Seller / Admin) |
+| 🔐 User Roles | **3** (Buyer/Seller/Admin) |
 | 📦 Features | **6+** |
-| 🐳 Deploy Steps Saved | **50%** |
+| 🐳 Deploy Steps | **↓ 50%** |
 | ✅ Validation | Real-time stock |
 
-[![GitHub](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu12222344)
+[![GitHub](https://img.shields.io/badge/View%20Source-%230D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu12222344)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Engineering Concepts Applied
+<img src="https://img.shields.io/badge/🧠%20Engineering%20Concepts-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=0D1117&color=8B5CF6"/>
 
-| Domain | Technologies |
-|--------|-------------|
+| Domain | Stack |
+|--------|-------|
 | Microservices | Spring Cloud, Eureka, Gateway |
-| Auth & Security | JWT, OAuth2, RBAC |
+| Security | JWT, OAuth2, RBAC |
 | Real-Time | WebSockets |
-| Containers | Docker + Kubernetes |
+| DevOps | Docker + Kubernetes |
 | System Design | SJF, FIFO, Queue Theory |
 | Frontend | React + TypeScript |
 | Databases | MySQL, MongoDB, Redis |
@@ -145,127 +154,144 @@ Production-grade e-commerce with RBAC, full product lifecycle, and Dockerized de
 
 <br/>
 
----
+<!-- TECH STACK SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-## 🛠️ Tech Stack
+<br/>
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="25%" valign="top" align="center">
-
-**`</> Languages`**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/>
+<sub><b>Java</b></sub>
 </td>
-<td width="25%" valign="top" align="center">
-
-**`⚙️ Backend`**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
+<sub><b>JavaScript</b></sub>
 </td>
-<td width="25%" valign="top" align="center">
-
-**`🎨 Frontend`**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/>
+<sub><b>TypeScript</b></sub>
 </td>
-<td width="25%" valign="top" align="center">
-
-**`☁️ Cloud & DevOps`**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/>
+<sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/>
+<sub><b>Next.js</b></sub>
 </td>
 </tr>
 <tr>
-<td width="25%" valign="top" align="center">
-
-**`🗄️ Databases`**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/>
+<sub><b>Tailwind CSS</b></sub>
 </td>
-<td width="25%" valign="top" align="center">
-
-**`📡 Messaging & APIs`**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![REST](https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
+<sub><b>Docker</b></sub>
 </td>
-<td width="25%" valign="top" align="center">
-
-**`✨ AI & Integrations`**
-
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48"/><br/>
+<sub><b>Kubernetes</b></sub>
 </td>
-<td width="25%" valign="top" align="center">
-
-**`🧠 Concepts`**
-
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-7C3AED?style=flat-square&logoColor=white)
-
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/>
+<sub><b>Redis</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>
+<sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48"/><br/>
+<sub><b>Redux</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/>
+<sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>
+<sub><b>Postman</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/>
+<sub><b>Figma</b></sub>
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
----
+**Concepts →**
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-7C3AED?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-0F172A?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-## 📜 Certifications
+<br/>
+
+<!-- CERTIFICATIONS SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%93%9C%20Certifications&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
+| 🏅 Certification | 🏢 Issuer | 📅 |
 |:---|:---|:---:|
-| Java Full Stack | Cipher Schools | Jul 2025 |
-| Cloud Computing | NPTEL – IIT Kharagpur | Oct 2024 |
-| Data Structures Using C++ | Cipher Schools | Jul 2024 |
-| Server-Side JavaScript with Node.js | NIIT – Coursera | Apr 2023 |
+| ☕ Java Full Stack | Cipher Schools | Jul 2025 |
+| ☁️ Cloud Computing | NPTEL – IIT Kharagpur | Oct 2024 |
+| 🧩 Data Structures Using C++ | Cipher Schools | Jul 2024 |
+| 🌐 Server-Side JavaScript with Node.js | NIIT – Coursera | Apr 2023 |
 
 </div>
 
 <br/>
 
----
+<!-- GITHUB STATS SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishnu12222344&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishnu12222344&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu12222344&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu12222344&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu12222344&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu12222344&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="58%"/>
 </div>
 
 <br/>
@@ -276,34 +302,40 @@ Production-grade e-commerce with RBAC, full product lifecycle, and Dockerized de
 
 <br/>
 
----
+<!-- SNAKE SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnu12222344/Vishnu12222344/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishnu12222344/Vishnu12222344/output/github-snake.svg"/>
   <img alt="contribution-snake" src="https://raw.githubusercontent.com/Vishnu12222344/Vishnu12222344/output/github-snake-dark.svg"/>
 </picture>
+</div>
+
+<br/>
+
+<!-- EDUCATION SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%8E%93%20Education&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+| 🎓 Degree | 🏫 University | 📅 |
+|:---|:---|:---:|
+| B.Tech – Computer Science & Engineering | Lovely Professional University, Punjab | 2022 – 2026 |
 
 </div>
 
 <br/>
 
----
-
-## 🎓 Education
-
-**🎓 B.Tech — Computer Science & Engineering**
-Lovely Professional University · Punjab · *Aug 2022 – May 2026*
+<!-- QUOTE SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%92%AC%20Dev%20Quote&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
 <br/>
-
----
-
-## 💬 Dev Quote
 
 <div align="center">
 
@@ -313,9 +345,10 @@ Lovely Professional University · Punjab · *Aug 2022 – May 2026*
 
 <br/>
 
----
+<!-- CONNECT SECTION BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,4,30&height=60&section=header&text=%F0%9F%93%AC%20Let%27s%20Connect&fontSize=26&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-## 📬 Let's Connect
+<br/>
 
 <div align="center">
 
@@ -333,9 +366,7 @@ Lovely Professional University · Punjab · *Aug 2022 – May 2026*
 
 <br/>
 
----
-
+<!-- FOOTER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-<sub>⬆️ <a href="#top">Back to top</a> &nbsp;·&nbsp; Built with precision · Deployed with purpose</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Built%20with%20Precision%20%C2%B7%20Deployed%20with%20Purpose&fontSize=14&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
