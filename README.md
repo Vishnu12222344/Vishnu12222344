@@ -1,11 +1,10 @@
-<!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=220&section=header&text=Vishnu%20Pratapani&fontSize=52&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Java%20Developer%20%E2%80%A2%20Cloud%20Native%20Engineer&descAlignY=62&descSize=16&descColor=ffffff&stroke=00D9FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishnu%20Pratapani&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Java%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Cloud%20Native&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=48&lines=⚡+Spring+Boot+%7C+Microservices+%7C+Cloud+Native;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🔐+REST+APIs+%7C+JWT+%7C+WebSockets;⚛️+React+%7C+TypeScript+%7C+System+Design;🚀+Building+Scalable+Production+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=48&lines=Spring+Boot+%7C+Microservices+%7C+Cloud+Native;Java+Backend+%7C+Docker+%7C+Kubernetes;REST+APIs+%7C+JWT+%7C+WebSockets;React+%7C+TypeScript+%7C+System+Design;Building+Scalable+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,6 +18,8 @@
 </div>
 
 <br/>
+
+---
 
 <!-- ABOUT ME -->
 <div align="center">
