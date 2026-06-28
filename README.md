@@ -49,28 +49,6 @@
 
 <br/>
 
-<!-- EXPERIENCE -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&text=🏢%20Experience&fontSize=24&fontColor=00D9FF&fontAlignY=65" width="100%"/>
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td>
-<img align="right" src="https://img.shields.io/badge/Dec%202025–Present-00D9FF?style=for-the-badge&logoColor=white"/>
-
-### 🔵 Academic Trainee · [HCLTech](https://www.hcltech.com/)
-
-- Developed **3+ Spring Boot microservices** with RESTful APIs, enabling independent deployment and service isolation
-- Containerized backend services with **Docker**, deployed on **Kubernetes** — pods, deployments, NodePort services, **zero-downtime rollouts**
-- Applied cloud-native principles — stateless architecture, externalized config — cutting environment setup time by **30%**
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- PROJECTS -->
 <div align="center">
