@@ -1,226 +1,143 @@
-<h1 align="center">Hey there! I'm Vishnu Pratapani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-
-<p align="center">
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&height=60&lines=Aspiring+Full-Stack+Developer;Creative+UI%2FUX+Designer;Computer+Science+Engineer;Problem+Solver+%E2%9C%8C%EF%B8%8F" />
-
-</a>
-
-</p>
-
-
+```markdown
+```markdown
+<!-- ============================================ -->
+<!--          PRATAPANI VISHNU — GITHUB PROFILE    -->
+<!-- ============================================ -->
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vishnu12222344&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Vishnu12222344" />
-
+  <a href="https://github.com/Vishnu12222344">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&height=60&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+%7C+Microservices;Cloud+Native+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishnu12222344&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
+### Software Engineer | Java Backend & Full-Stack Systems
 
-
-## 🧑‍💻 About Me
-
-
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
-
-
-
-- 🌱 Currently learning **React JS**, **UX Designing**, and **Backend Development**
-
-- 💼 Actively looking for **Internship or Job opportunities**
-
-- 🎨 Passionate about blending **design & functionality**
-
-- 💡 Constantly exploring new technologies & improving skills
-
-- 📄 [My Resume](https://drive.google.com/file/d/11QgU3lg1so2rI2XWvNOgtzyFeGIoMMlV/view?usp=drive_link)
-
-
+Full-Stack Java Developer focused on building scalable, production-grade backend systems and modern full-stack applications. Experienced with Spring Boot microservices, containerized deployments, and cloud-native architecture. Passionate about clean code, system design, and delivering reliable software.
 
 ---
 
+### About
 
-
-## 🌐 Connect With Me
-
-
-
-<p align="center">
-
-<a href="mailto:pratapanivishnu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<a href="https://github.com/Vishnu12222344"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<a href="https://www.linkedin.com/in/pratapanivishnu0003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-</p>
-
-
+| Role                  | Academic Trainee @ HCLTech                  |
+|-----------------------|---------------------------------------------|
+| Location              | India                                       |
+| Open to               | Software Engineer • Backend Engineer • Java Developer |
+| Interests             | Distributed Systems • Microservices • System Design • Cloud Native |
+| Currently Learning    | Redis • RabbitMQ • Kafka • CI/CD • AWS      |
 
 ---
 
+### Tech Stack
 
+**Languages**
+`Java` `JavaScript` `TypeScript`
 
-## 🛠️ Tech Stack
+**Backend**
+`Spring Boot` `Spring Security` `Spring Cloud` `Node.js`
 
+**Frontend**
+`React` `Next.js` `Tailwind CSS` `Redux`
 
+**Databases & Messaging**
+`MySQL` `MongoDB` `Redis` `RabbitMQ`
 
-### 💻 Languages
+**DevOps & Cloud**
+`Docker` `Kubernetes` `Firebase`
 
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-</p>
-
-
-
-### 🌐 Web & Frameworks
-
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-</p>
-
-
-
-### ⚙️ Tools & Platforms
-
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-</p>
-
-
+**Core Concepts**
+`REST APIs` `JWT` `OAuth2` `RBAC` `WebSockets` `Microservices` `System Design`
 
 ---
 
+### Featured Projects
 
+#### Coffee Shop Queue Management System
+**Tech:** React • TypeScript • Spring Boot • Spring Security • MySQL
 
-## 🚀 Featured Projects
+- Built a full-stack order management platform with JWT authentication and role-based access control.
+- Implemented Shortest Job First (SJF) scheduling algorithm, reducing average wait time by **30%** and order abandonment by **50%**.
+- Designed real-time analytics dashboards for workload distribution and SLA compliance.
 
+[GitHub](https://github.com/Vishnu12222344) • [Live Demo](https://sainathaenterprises.netlify.app/)
 
+#### IndiChess – Real-Time Chess Platform
+**Tech:** Spring Boot • Spring Security • MySQL • Docker • React
 
-<p align="center">
+- Developed a low-latency multiplayer chess engine supporting **10+ concurrent matches** with WebSockets.
+- Deployed 3+ microservices on Kubernetes using Docker for parallel, conflict-free execution.
+- Persisted 100+ game sessions with transactional integrity and fault-tolerant recovery.
 
-<a href="https://sainathaenterprises.netlify.app/"><img src="https://img.shields.io/badge/Sainatha%20Enterprises-E34F26?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+[GitHub](https://github.com/Vishnu12222344/BloodNetwork360)
 
-<a href="https://github.com/Vishnu12222344/BloodNetwork360"><img src="https://img.shields.io/badge/BloodNetwork360-1572B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+#### E-Commerce Platform
+**Tech:** React • Spring Boot • Spring Security • MySQL
 
-<a href="https://github.com/Vishnu12222344/Online-Furniture-Store-"><img src="https://img.shields.io/badge/Online%20Furniture%20Store-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+- Built a production-ready e-commerce application with role-based access for Buyers, Sellers, and Admins.
+- Containerized the application with Docker, reducing deployment complexity by **50%**.
+- Integrated real-time stock validation and order management.
 
-</p>
-
-
-
----
-
-
-
-## 📊 GitHub Stats
-
-
-
-<details>
-
-<summary><b>🔥 Streak Stats</b></summary>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu12222344&theme=tokyonight_duo" />
-
-</p>
-
-</details>
-
-
-
-<details>
-
-<summary><b>📈 Profile Summary</b></summary>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishnu12222344&show_icons=true&theme=tokyonight&layout=compact" height="180px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishnu12222344&layout=compact&theme=tokyonight" height="180px"/>
-
-</p>
-
-</details>
-
-
-
-<details>
-
-<summary><b>📁 My Pinned Repositories</b></summary>
-
-<p align="center">
-
-<a href="https://github.com/Vishnu12222344/BloodNetwork360">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=BloodNetwork360&theme=tokyonight" />
-
-</a>
-
-<a href="https://github.com/Vishnu12222344/Weather-Predictor-app">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Weather-Predictor-app&theme=tokyonight" />
-
-</a>
-
-<a href="https://github.com/Vishnu12222344/Sainatha-Enterprises">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu12222344&repo=Sainatha-Enterprises&theme=tokyonight" />
-
-</a>
-
-
-</p>
-
-</details>
-
-
+[GitHub](https://github.com/Vishnu12222344/Online-Furniture-Store-)
 
 ---
 
+### Experience
 
+**Academic Trainee**  
+*HCLTech* — Dec 2025 – Present
 
-<p align="center"><b>✨ Thanks for visiting my profile!</b></p>
+- Developed 3+ Spring Boot microservices with RESTful APIs and independent deployment capabilities.
+- Containerized backend services using Docker and deployed on Kubernetes with zero-downtime rollouts.
+- Applied cloud-native principles including stateless architecture and externalized configuration.
+
+---
+
+### Achievements
+
+- **Top 17 of 50** — HCLTech Hiring Hackathon (2026)
+- Selected for internship through rigorous technical assessment among 50 candidates
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Vishnu12222344">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vishnu12222344&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" height="165"/>
+  </a>
+  <a href="https://github.com/Vishnu12222344">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu12222344&layout=compact&theme=tokyonight" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vishnu12222344">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu12222344&theme=tokyonight_duo" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="mailto:pratapanivishnu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/pratapanivishnu0003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Vishnu12222344"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Build systems that scale. Write code that lasts.”</i></p>
+
+<p align="center">
+  <a href="#-pratapani-vishnu--github-profile-">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-181717?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top"/>
+  </a>
+</p>
+```
